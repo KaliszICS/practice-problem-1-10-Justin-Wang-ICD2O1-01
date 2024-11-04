@@ -20,8 +20,8 @@ def q3():
   #Write Assignment code here
   import math
   num= input("Input a number: ")
-  num= int(num)
-  print(math.floor(num))
+  num= float(num)
+  print(int(math.floor(num)))
 
 
 def q4(): 
