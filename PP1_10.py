@@ -4,7 +4,7 @@ def q1():
   #Write Assignment code here
   import math
   num = input("Input a number: ")
-  num = int(num)
+  num = float(num)
   print(math.sqrt(num))
 
 
