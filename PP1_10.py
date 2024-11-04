@@ -20,7 +20,7 @@ def q3():
   #Write Assignment code here
   import math
   num= input("Input a number: ")
-  num= float(num)
+  num= int(num)
   print(int(math.floor(num)))
 
 
@@ -29,7 +29,7 @@ def q4():
   import math
   num= input("Input a number: ")
   num= int(num)
-  print(math.ceil(num))
+  print(int(math.ceil(num)))
 
 
 def q5(): 
