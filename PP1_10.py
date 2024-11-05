@@ -29,7 +29,7 @@ def q4():
   import math
   num= input("Input a number: ")
   num= float(num)
-  print(math.ceil(num))
+  print(int(math.ceil(num)))
 
 
 def q5(): 
