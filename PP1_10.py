@@ -28,7 +28,7 @@ def q4():
   #Write Assignment code here
   import math
   num= input("Input a number: ")
-  num= int(num)
+  num= float(num)
   print(int(math.ceil(num)))
 
 
